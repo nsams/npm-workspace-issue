@@ -1,0 +1,11 @@
+{
+    "name": "root",
+    "license": "BSD-2-Clause",
+    "workspaces": [
+        "packages/*"
+    ],
+    "private": true,
+    "dependencies": {
+        "pm2": "^4.5.6"
+    }
+}
